@@ -1,10 +1,7 @@
 # PRODIGY_DS_03
 Third task of Prodigy InfoTech m1 Data Science intership.
 A decision tree classifier to predict whether a customer will purchase a product or service based on their demographic and behavioral data.
-
-## Overview
-
-This project implements a decision tree classifier to predict whether a customer will purchase a product or service based on their demographic and behavioral data. The decision tree is trained on a labeled dataset containing examples of customers along with their purchase outcomes.
+The decision tree is trained on a labeled dataset containing examples of customers along with their purchase outcomes.
 
 ## Features
 
