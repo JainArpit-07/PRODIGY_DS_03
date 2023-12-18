@@ -1,4 +1,5 @@
 # PRODIGY_DS_03
+Third task of Prodigy InfoTech m1 Data Science intership.
 A decision tree classifier to predict whether a customer will purchase a product or service based on their demographic and behavioral data.
 
 ## Overview
